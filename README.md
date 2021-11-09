@@ -2,6 +2,8 @@
 Plugin for cheating
 
 # How to Install
+Download and install Better Discord https://betterdiscord.app
+
 Get the Fake AFK file and add it to the Better Discord plugin file
 
 # How To Use
