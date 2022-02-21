@@ -4,7 +4,7 @@
  * @description Fake AFK Discord Buger
  * @author nimaisox
  * @authorId 631463369458843668
- * @invite DStAkkypnm
+ * @invite Z5K5WZ5SDY
  * @source https://github.com/nimaisox/Discord-Fake-AFK
  */
  module.exports = class FakeAFK{
